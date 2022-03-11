@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785693311409",
+    "project_id": "chalnafirebase",
+    "storage_bucket": "chalnafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785693311409:android:ebefdaf71e234f5a8f7d90",
+        "android_client_info": {
+          "package_name": "com.example.chalnafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785693311409-qb7ep7rboqt1pseqgc9c941e36cf769i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIdX49Jps2Ck8hqpKiR0qi4JKEsQ9eGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785693311409-qb7ep7rboqt1pseqgc9c941e36cf769i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
